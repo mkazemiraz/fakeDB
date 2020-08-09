@@ -1,11 +1,14 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "users": [
+        {"name": "Hulk", "count": 2, "confirmed": true},
+        {"name": "BatMan", "count": 1, "confirmed": true},
+        {"name": "SpiderMan", "count": 2, "confirmed": false},
+        {"name": "Captain America", "count": 1, "confirmed": true},
+        {"name": "IronMan", "count": 3, "confirmed": false},
+        {"name": "Joker", "count": 15, "confirmed": true},
+        {"name": "Thor", "count": 2, "confirmed": false},
+        {"name": "Groot", "count": 1, "confirmed": true},
+        {"name": "Thanos", "count": 3, "confirmed": true},
+        {"name": "Gamora", "count": 2, "confirmed": true}
+    ]
 }
