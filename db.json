@@ -1,3 +1,4 @@
+
 {
     "users": [
         {"name": "Hulk", "count": 2, "confirmed": true},
@@ -10,5 +11,17 @@
         {"name": "Groot", "count": 1, "confirmed": true},
         {"name": "Thanos", "count": 3, "confirmed": true},
         {"name": "Gamora", "count": 2, "confirmed": true}
+    ],
+    "customers": [
+        {"firstName": "Mohamad", "lastName": "Kazemiraz", "count": 2, "tableNumber": 1, "date": "1399/05/23", "time": "9:00 PM"},
+        {"firstName": "Shahin", "lastName": "Najmi", "count": 4, "tableNumber": 10, "date": "1399/05/25", "time": "7:00 PM"},
+        {"firstName": "Hamed", "lastName": "Delshad", "count": 10, "tableNumber": 5, "date": "1399/05/20", "time": "8:30 PM"},
+        {"firstName": "Amir", "lastName": "Hoseinian", "count": 2, "tableNumber": 6, "date": "1399/05/20", "time": "9:30 PM"},
+        {"firstName": "Mohamad", "lastName": "Mir", "count": 3, "tableNumber": 2, "date": "1399/05/23", "time": "10:00 PM"},
+        {"firstName": "Mahan", "lastName": "Mohebi", "count": 1, "tableNumber": 1, "date": "1399/05/30", "time": "7:45 PM"},
+        {"firstName": "Ali", "lastName": "Malayeri", "count": 12, "tableNumber": 7, "date": "1399/05/27", "time": "8:00 PM"},
+        {"firstName": "Pouriya", "lastName": "Shahrouzfar", "count": 2, "tableNumber": 5, "date": "1399/05/19", "time": "6:30 PM"},
+        {"firstName": "Nazanin", "lastName": "Farhadi", "count": 2, "tableNumber": 1, "date": "1399/05/28", "time": "9:15 PM"},
+        {"firstName": "Shabnam", "lastName": "Nasiri", "count": 4, "tableNumber": 3, "date": "1399/05/24", "time": "10:30 PM"}
     ]
 }
