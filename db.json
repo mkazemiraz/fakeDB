@@ -23,5 +23,16 @@
         {"firstName": "Pouriya", "lastName": "Shahrouzfar", "count": 2, "tableNumber": 5, "date": "1399/05/19", "time": "6:30 PM"},
         {"firstName": "Nazanin", "lastName": "Farhadi", "count": 2, "tableNumber": 1, "date": "1399/05/28", "time": "9:15 PM"},
         {"firstName": "Shabnam", "lastName": "Nasiri", "count": 4, "tableNumber": 3, "date": "1399/05/24", "time": "10:30 PM"}
+    ],
+    "jobs": [
+        {"id": 1, "jobTitle": "برنامه‌نویس Front-End", "companyName": "ایده پردازان", "location": "تهران", "contractType": "تمام وقت", "logo": "https://picsum.photos/200/300?random=1", "urgent": true},
+        {"id": 2, "jobTitle": "Front-End Web Developer", "companyName": "پردازش نگار راشین ", "location": "اصفهان", "contractType": "تمام وقت", "logo": "https://picsum.photos/200/300?random=2", "urgent": false},
+        {"id": 3, "jobTitle": "برنامه‌نویس React.JS) Front-End)", "companyName": "هال حمل کالا", "location": "شیراز", "contractType": "پاره وقت", "logo": "https://picsum.photos/200/300?random=3", "urgent": false},
+        {"id": 4, "jobTitle": "کارآموز (Front-End (ReactJs", "companyName": "فرزان سیستم مانا", "location": "تهران", "contractType": "پاره وقت", "logo": "https://picsum.photos/200/300?random=4", "urgent": true},
+        {"id": 5, "jobTitle": "برنامه‌نویس Front-End", "companyName": "سحاب پرداز ", "location": "تهران", "contractType": "تمام وقت", "logo": "https://picsum.photos/200/300?random=5", "urgent": true},
+        {"id": 6, "jobTitle": "برنامه‌نویس Front-End", "companyName": "ارکید فارمد", "location": "رشت", "contractType": "پاره وقت", "logo": "https://picsum.photos/200/300?random=6", "urgent": true},
+        {"id": 7, "jobTitle": "Internship) Front-End Developer)", "companyName": "نوآوران پردازش گستر نصر", "location": "تهران", "contractType": "تمام وقت", "logo": "https://picsum.photos/200/300?random=7", "urgent": false},
+        {"id": 8, "jobTitle": "برنامه‌نویس Back-End(دورکاری) ", "companyName": "جیبیت", "location": "تهران", "contractType": "تمام وقت", "logo": "https://picsum.photos/200/300?random=8", "urgent": true},
+        {"id": 9, "jobTitle": "(Back-End Developer(Java", "companyName": "کاوانو", "location": "بندرعباس", "contractType": "تمام وقت", "logo": "https://picsum.photos/200/300?random=9", "urgent": false}
     ]
 }
