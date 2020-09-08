@@ -22,5 +22,12 @@
         {"firstName": "Pouriya", "lastName": "Shahrouzfar", "count": 2, "tableNumber": 5, "date": "1399/05/19", "time": "6:30 PM"},
         {"firstName": "Nazanin", "lastName": "Farhadi", "count": 2, "tableNumber": 1, "date": "1399/05/28", "time": "9:15 PM"},
         {"firstName": "Shabnam", "lastName": "Nasiri", "count": 4, "tableNumber": 3, "date": "1399/05/24", "time": "10:30 PM"}
+    ],
+    "tasks": [
+        {"title": "Task 1", "status": false},
+        {"title": "Task 2", "status": false},
+        {"title": "Task 3", "status": true},
+        {"title": "Task 4", "status": false},
+        {"title": "Task 5", "status": true}
     ]
 }
